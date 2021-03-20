@@ -1,0 +1,8 @@
+{
+  "categories": [
+    { "id": 1, "name": "Salads" },
+    { "id": 2, "title": "Pakistani" },
+    { "id": 3, "title": "Deserts" }
+  ],
+  "receipes": []
+}
